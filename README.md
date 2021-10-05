@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vonsogt&layout=compact)](https://github.com/vonsogt/vonsogt)
 -->
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vonsogt&count_private=true&theme=dark&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonsogt&theme=dark&show_icons=true&layout=compact&hide_border=true" />
+</div>
